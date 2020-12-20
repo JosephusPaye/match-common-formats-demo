@@ -1,6 +1,6 @@
 # match-common-formats-demo
 
-**View the demo: <https://mcf.netlify.app>**
+#### View the demo here: <https://mcf.netlify.app>**
 
 > Demo app for [@josephuspaye/match-common-formats](https://github.com/JosephusPaye/match-common-formats), which allows for matching a piece of text to common formats like URLs, email addresses, colors, and more.
 
