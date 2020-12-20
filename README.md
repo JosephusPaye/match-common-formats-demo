@@ -6,7 +6,7 @@ This project is part of [#CreateWeekly](https://dev.to/josephuspaye/createweekly
 
 ---
 
-### View the demo here: <https://mcf.netlify.app>
+### View the demo here: <https://match-common-formats.netlify.app>
 
 ## Licence
 
