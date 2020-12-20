@@ -1,0 +1,33 @@
+{
+  "name": "match-common-formats-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "format": "prettier --write \"src/**/*.{vue,js,css}\" \"*.{js,json,md,html}\""
+  },
+  "dependencies": {
+    "@josephuspaye/match-common-formats": "^0.1.2",
+    "emojicon": "^0.1.1",
+    "focus-visible": "^5.2.0",
+    "highlight.js": "^10.4.1",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.10",
+    "prettier": "^2.2.1",
+    "tailwindcss": "^2.0.1",
+    "vite": "^1.0.0-rc.9"
+  },
+  "resolutions": {
+    "postcss": "8.1.10"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true
+  }
+}

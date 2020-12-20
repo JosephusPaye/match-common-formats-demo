@@ -1,0 +1,22 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* purgecss start ignore */
+@import 'highlight.js/styles/dracula.css';
+/* purgecss end ignore */
+
+.js-focus-visible :focus:not(.focus-visible) {
+  outline: none;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Inter var';
+}
+
+html {
+  @apply bg-gray-200;
+}
