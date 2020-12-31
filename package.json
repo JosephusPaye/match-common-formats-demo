@@ -8,7 +8,7 @@
     "format": "prettier --write \"src/**/*.{vue,js,css}\" \"*.{js,json,md,html}\""
   },
   "dependencies": {
-    "@josephuspaye/match-common-formats": "^0.3.1",
+    "@josephuspaye/match-common-formats": "^0.4.0",
     "emojicon": "^0.1.1",
     "focus-visible": "^5.2.0",
     "highlight.js": "^10.4.1",

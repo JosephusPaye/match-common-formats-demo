@@ -45,10 +45,10 @@
     postcss "7.0.32"
     purgecss "^3.0.0"
 
-"@josephuspaye/match-common-formats@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@josephuspaye/match-common-formats/-/match-common-formats-0.3.1.tgz#94ae7394d452c13cdaabd515094c2e9cfd597187"
-  integrity sha512-wJxJv0UCFZErip6WOvtzVViHqKRwkqbHu5iOqmIYQ0q1g06W3VH1OHNm0gRDoprrqOqD08BC2n6Y3CVC0o3Z5g==
+"@josephuspaye/match-common-formats@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@josephuspaye/match-common-formats/-/match-common-formats-0.4.0.tgz#83b7845726c1ee500f97c4f384b56490b903e706"
+  integrity sha512-/OhNqxyzvybwJVWrmLSicqdetNlDTRcnnGc2CO4r4jc0l72elqw8BC5DOu3DDK5GcfSpvnbCakaws64/rVPmWg==
 
 "@koa/cors@^3.1.0":
   version "3.1.0"
